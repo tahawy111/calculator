@@ -1,1 +1,1 @@
-# [Website Link](https://tahawy111.github.io/ts-calculator/)
+# [Website Link](https://tahawy111.github.io/calculator/)
